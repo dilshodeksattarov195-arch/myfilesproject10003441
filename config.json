@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvetch",
+        "uuid": 13808733,
+        "checksum": "biztub"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
